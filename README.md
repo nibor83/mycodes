@@ -1,3 +1,3 @@
 # mycodes
 Collection of codes.
-Different programming codes I have written throughout the years
+Different programming codes (Python) I have written throughout the years
